@@ -48,6 +48,5 @@ obj/
 *.exe
 
 # Published binaries
-publish/
-!publish/**/*.dll
+# publish/ directory is tracked for DLL artifacts
 
