@@ -47,3 +47,6 @@ obj/
 *.pdb
 *.exe
 
+# Published binaries
+publish/
+
