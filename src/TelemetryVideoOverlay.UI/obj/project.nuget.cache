@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6n1H0hM2xlM=",
+  "success": true,
+  "projectFilePath": "/workspace/0995c339-4dfa-4885-ae83-ed6cb23cb5bd/sessions/agent_65a4d60b-6c21-46f5-8f76-50e5e97af725/src/TelemetryVideoOverlay.UI/TelemetryVideoOverlay.UI.csproj",
+  "expectedPackageFiles": [
+    "/home/agent_65a4d60b-6c21-46f5-8f76-50e5e97af725/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/home/agent_65a4d60b-6c21-46f5-8f76-50e5e97af725/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/agent_65a4d60b-6c21-46f5-8f76-50e5e97af725/.nuget/packages/skiasharp/2.88.8/skiasharp.2.88.8.nupkg.sha512",
+    "/home/agent_65a4d60b-6c21-46f5-8f76-50e5e97af725/.nuget/packages/skiasharp.nativeassets.macos/2.88.8/skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "/home/agent_65a4d60b-6c21-46f5-8f76-50e5e97af725/.nuget/packages/skiasharp.nativeassets.win32/2.88.8/skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
+    "/home/agent_65a4d60b-6c21-46f5-8f76-50e5e97af725/.nuget/packages/system.commandline/2.0.0-beta4.22272.1/system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}

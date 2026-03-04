@@ -40,7 +40,7 @@ public class RenderSettings : IRenderSettings
     public int Height { get; set; } = 1080;
     public double Fps { get; set; } = 30.0;
     public int Bitrate { get; set; } = 5_000_000; // 5 Mbps
-    public int BackgroundColor { get; set; } = 0xFF000000; // Black (ARGB)
+    public int BackgroundColor { get; set; } = -16777216; // Black (ARGB)
 
     public RenderSettings()
     {

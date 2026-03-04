@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GCZKUX0NOBM=",
+  "success": true,
+  "projectFilePath": "/workspace/0995c339-4dfa-4885-ae83-ed6cb23cb5bd/sessions/agent_65a4d60b-6c21-46f5-8f76-50e5e97af725/src/TelemetryVideoOverlay.Video/TelemetryVideoOverlay.Video.csproj",
+  "expectedPackageFiles": [
+    "/home/agent_65a4d60b-6c21-46f5-8f76-50e5e97af725/.nuget/packages/skiasharp/2.88.8/skiasharp.2.88.8.nupkg.sha512",
+    "/home/agent_65a4d60b-6c21-46f5-8f76-50e5e97af725/.nuget/packages/skiasharp.nativeassets.macos/2.88.8/skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "/home/agent_65a4d60b-6c21-46f5-8f76-50e5e97af725/.nuget/packages/skiasharp.nativeassets.win32/2.88.8/skiasharp.nativeassets.win32.2.88.8.nupkg.sha512"
+  ],
+  "logs": []
+}
