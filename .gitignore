@@ -49,4 +49,5 @@ obj/
 
 # Published binaries
 publish/
+!publish/**/*.dll
 
