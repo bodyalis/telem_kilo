@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{04209230-9E83-4317-B5F3-C14631654B20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelemetryVideoOverlay.Core", "src\TelemetryVideoOverlay.Core\TelemetryVideoOverlay.Core.csproj", "{66DB05B9-AF4B-4D28-9021-D051598F4414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelemetryVideoOverlay.Graphics", "src\TelemetryVideoOverlay.Graphics\TelemetryVideoOverlay.Graphics.csproj", "{EE8E93AC-6848-4C44-938C-F63E237C1B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelemetryVideoOverlay.Video", "src\TelemetryVideoOverlay.Video\TelemetryVideoOverlay.Video.csproj", "{2470FBBD-B973-4B61-A029-D963F9454A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelemetryVideoOverlay.UI", "src\TelemetryVideoOverlay.UI\TelemetryVideoOverlay.UI.csproj", "{CCE35CD8-52EF-48D6-ABBF-1F42FEC1A898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66DB05B9-AF4B-4D28-9021-D051598F4414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DB05B9-AF4B-4D28-9021-D051598F4414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DB05B9-AF4B-4D28-9021-D051598F4414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DB05B9-AF4B-4D28-9021-D051598F4414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE8E93AC-6848-4C44-938C-F63E237C1B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE8E93AC-6848-4C44-938C-F63E237C1B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE8E93AC-6848-4C44-938C-F63E237C1B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE8E93AC-6848-4C44-938C-F63E237C1B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2470FBBD-B973-4B61-A029-D963F9454A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2470FBBD-B973-4B61-A029-D963F9454A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2470FBBD-B973-4B61-A029-D963F9454A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2470FBBD-B973-4B61-A029-D963F9454A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE35CD8-52EF-48D6-ABBF-1F42FEC1A898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE35CD8-52EF-48D6-ABBF-1F42FEC1A898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE35CD8-52EF-48D6-ABBF-1F42FEC1A898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE35CD8-52EF-48D6-ABBF-1F42FEC1A898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{66DB05B9-AF4B-4D28-9021-D051598F4414} = {04209230-9E83-4317-B5F3-C14631654B20}
+		{EE8E93AC-6848-4C44-938C-F63E237C1B38} = {04209230-9E83-4317-B5F3-C14631654B20}
+		{2470FBBD-B973-4B61-A029-D963F9454A13} = {04209230-9E83-4317-B5F3-C14631654B20}
+		{CCE35CD8-52EF-48D6-ABBF-1F42FEC1A898} = {04209230-9E83-4317-B5F3-C14631654B20}
+	EndGlobalSection
+EndGlobal
